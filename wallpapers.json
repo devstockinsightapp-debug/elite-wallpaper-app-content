@@ -1,0 +1,131 @@
+{
+  "wallpapers": [
+    {
+      "id": "001",
+      "name": "Abstract 1",
+      "category": "Abstract",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_1.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_1.jpg",
+      "productId": "abstract_001",
+      "isPremium": true
+    },
+    {
+      "id": "002",
+      "name": "Abstract 2",
+      "category": "Abstract",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_2.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_2.jpg",
+      "productId": "abstract_002",
+      "isPremium": true
+    },
+    
+    {
+      "id": "003",
+      "name": "Abstract 3",
+      "category": "Abstract",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_3.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_3.jpg",
+      "productId": "abstract_003",
+      "isPremium": true
+    },
+    {
+      "id": "004",
+      "name": "Abstract 4",
+      "category": "Abstract",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_4.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_4.jpg",
+      "productId": "abstract_004",
+      "isPremium": true
+    },
+    {
+      "id": "005",
+      "name": "Abstract 5",
+      "category": "Abstract",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_5.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_5.jpg",
+      "productId": "abstract_005",
+      "isPremium": true
+    },
+    {
+      "id": "006",
+      "name": "Clouds 1",
+      "category": "Clouds",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/clouds_1.jpeg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/clouds_1.jpeg",
+      "productId": "clouds_006",
+      "isPremium": true
+    },
+    {
+      "id": "007",
+      "name": "Clouds 2",
+      "category": "Clouds",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/clouds_2.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/clouds_2.jpg",
+      "productId": "clouds_007",
+      "isPremium": true
+    },
+    {
+      "id": "008",
+      "name": "Nature 1",
+      "category": "Nature",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_1.jpeg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_1.jpeg",
+      "productId": "nature_008",
+      "isPremium": true
+    },
+    {
+      "id": "009",
+      "name": "Nature 2",
+      "category": "Nature",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_2.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_2.jpg",
+      "productId": "nature_009",
+      "isPremium": true
+    },
+    {
+      "id": "010",
+      "name": "Nature 3",
+      "category": "Nature",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_3.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_3.jpg",
+      "productId": "nature_010",
+      "isPremium": true
+    },
+    {
+      "id": "011",
+      "name": "Nature 4",
+      "category": "Nature",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_4.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_4.jpg",
+      "productId": "nature_011",
+      "isPremium": true
+    },
+    {
+      "id": "012",
+      "name": "Nature 5",
+      "category": "Nature",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_5.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_5.jpg",
+      "productId": "nature_012",
+      "isPremium": true
+    },
+    {
+      "id": "013",
+      "name": "Nature 6",
+      "category": "Nature",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_6.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_6.jpg",
+      "productId": "nature_013",
+      "isPremium": true
+    },
+    {
+      "id": "014",
+      "name": "Nature 7",
+      "category": "Nature",
+      "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_7.jpg",
+      "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/nature_7.jpg",
+      "productId": "nature_014",
+      "isPremium": true
+    }
+  ]
+}

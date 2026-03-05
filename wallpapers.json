@@ -7,7 +7,7 @@
       "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_1.jpg",
       "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_1.jpg",
       "productId": "abstract_001",
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "002",
@@ -26,7 +26,7 @@
       "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_3.jpg",
       "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_3.jpg",
       "productId": "abstract_003",
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "004",
@@ -44,7 +44,7 @@
       "thumbnailUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_5.jpg",
       "fullUrl": "https://devstockinsightapp.github.io/elite-wallpaper-app-content/abstract_5.jpg",
       "productId": "abstract_005",
-      "isPremium": false
+      "isPremium": true
     },
     {
       "id": "006",
